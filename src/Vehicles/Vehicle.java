@@ -1,4 +1,4 @@
-package Inheritance.Vehicles;
+package Vehicles;
 
 
 //"Create a class named ‘vehicle’ with two data members ‘hp’ and ‘mileage’. Its constructor has parameters
